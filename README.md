@@ -29,7 +29,7 @@ I diagnose broken processes, design the target operating model, and ship the too
 
 ## The numbers
 
-| | |
+| Result | Where it came from |
 |:--|:--|
 | **$3.9M** | Courier cost cut from 21% → 14% of GMV at Bolt, in 6 months, across 20 countries |
 | **$2.1M** | Revenue increase from delivery-fee A/B testing, in 6 months |
