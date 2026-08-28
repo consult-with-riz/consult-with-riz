@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Line 01: Rizwan Mahmood. All stops from S&amp;P Global to Soch.">
+<defs>
+<radialGradient id="bgg" cx="76%" cy="-8%" r="118%"><stop offset="0" stop-color="#eef6f4"/><stop offset="0.62" stop-color="#ffffff"/></radialGradient>
+</defs>
+<rect width="1200" height="420" fill="url(#bgg)"/>
+<rect x="0.5" y="0.5" width="1199" height="419" fill="none" stroke="#0a7d6b" stroke-opacity="0.3"/>
+<text x="96" y="60" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="4.4" fill="#c2185b">LINE 01 &#9656; S&amp;P GLOBAL &#8594; SOCH &#9656; ALL STOPS</text>
+<text x="96" y="124" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="1.5" fill="#0f1418">RIZWAN MAHMOOD</text>
+<text x="96" y="156" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" letter-spacing="1.9" fill="#0a7d6b">CO-FOUNDER, SOCH &#183; AI WORKFLOW AUTOMATION &#183; TALLINN, EE</text>
+<line x1="96" y1="272" x2="1104" y2="272" stroke="#0a7d6b" stroke-width="6" stroke-linecap="round"/>
+<circle cx="96" cy="272" r="8.5" fill="#ffffff" stroke="#0a7d6b" stroke-width="4"/>
+<text x="96" y="232" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1.6" fill="#0f1418">S&P GLOBAL</text>
+<text x="96" y="210" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="1.5" fill="#5f6a75">'17 – '19</text>
+<circle cx="298" cy="272" r="8.5" fill="#ffffff" stroke="#0a7d6b" stroke-width="4"/>
+<text x="298" y="318" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1.6" fill="#0f1418">CAREEM</text>
+<text x="298" y="340" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="1.5" fill="#5f6a75">'19 – '20</text>
+<circle cx="499" cy="272" r="8.5" fill="#ffffff" stroke="#0a7d6b" stroke-width="4"/>
+<text x="499" y="232" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1.6" fill="#0f1418">MOTIVE</text>
+<text x="499" y="210" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="1.5" fill="#5f6a75">'20 – '21</text>
+<circle cx="701" cy="272" r="8.5" fill="#ffffff" stroke="#0a7d6b" stroke-width="4"/>
+<text x="701" y="318" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1.6" fill="#0f1418">BOLT</text>
+<text x="701" y="340" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="1.5" fill="#5f6a75">'21 – '25</text>
+<circle cx="902" cy="272" r="8.5" fill="#ffffff" stroke="#0a7d6b" stroke-width="4"/>
+<text x="902" y="232" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1.6" fill="#0f1418">WISE</text>
+<text x="902" y="210" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="1.5" fill="#5f6a75">2025</text>
+<circle cx="1104" cy="272" r="12" fill="#c2185b" stroke="#ffffff" stroke-width="3"/>
+<text x="1104" y="318" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1.6" fill="#a4123f">SOCH</text>
+<text x="1104" y="340" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="1.5" fill="#5f6a75">'25 – NOW</text>
+<text x="1104" y="362" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2.2" fill="#c2185b">YOU ARE HERE</text>
+<line x1="96" y1="384" x2="1104" y2="384" stroke="#0a7d6b" stroke-opacity="0.3" stroke-width="1"/>
+<text x="96" y="406" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2.6" fill="#8b959f">&#9670; 9+ YEARS &#183; 70+ MARKETS &#183; $6M+ IMPACT DELIVERED &#183; 50+ WORKFLOWS LIVE</text>
+</svg>
