@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Line 01 — Rizwan Mahmood. Main line: S&P Global, Careem, Motive, Bolt, Wise, Soch ('25 – Nov '26), Fractional COO (you are here). Branch line from Soch: Academy by Soch." src="./assets/line-01-nov26.svg" width="100%">
+  <img alt="Line 01 — Rizwan Mahmood. Main line: S&P Global, Careem, Motive, Bolt, Wise, Soch ('25 – Nov '26), Fractional COO (you are here). Branch line from Soch: Academy by Soch." src="./assets/line-01-nov26b.svg" width="100%">
 </p>
 
 **Fractional COO for Seed to Series B founders.** I run the operations so you can run the company. I automate only where it earns its place.
